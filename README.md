@@ -28,7 +28,7 @@ This project is not a real product or service. It was designed and developed sol
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/aqeel-sheikh/Vaultflow.git
+   git clone http://github.com/therizwanbaloch/vaultflow.git
    cd Vaultflow
    ```
 
@@ -50,4 +50,4 @@ You are free to use, modify, and distribute this code for personal and commercia
 
 ---
 
-**Developed by [Aqeel Sheikh](https://aqeelsheikh.netlify.app/), based on a Figma community design.**
+**Developed by [Rizwan Baloch](https://therizwanbaloch.vercel.app), based on a Figma community design.**
